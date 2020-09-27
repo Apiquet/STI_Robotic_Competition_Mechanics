@@ -1,6 +1,6 @@
 EPFL Robotics Competition: mechanical design repository. 
 
-Complete description of the job done here: https://anthonypiquet.wordpress.com/2019/03/22/epfl-robotics-competition/
+Complete description of the job done here: https://apiquet.com/2019/08/20/epfl-robotics-competition/
 
 # Description
 
