@@ -14,7 +14,7 @@ My responsibilities were:
 
 - visual recognition using Python and/or C++ to recognize the bottles and guide the robot to them: https://apiquet.com/2019/06/02/visual-recognition/
 
-- Triangularization of the Robot’s position and orientation from an homemade Beacon: https://anthonypiquet.wordpress.com/2019/06/13/beacon/
+- Triangularization of the Robot’s position and orientation from an homemade Beacon: https://apiquet.com/2019/06/13/beacon/
 
 # Our robot
 
