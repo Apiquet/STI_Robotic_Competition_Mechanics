@@ -10,7 +10,7 @@ Azzano Guilhem, Erbacher Pierre and I formed the Green Eye team, Winner of the 2
 
 My responsibilities were:
 
-- modeling the collector mecanism to catch the bottles and the system to store them.
+- modeling the collector mecanism to catch the bottles and the system to store them: https://apiquet.com/2019/08/20/epfl-robotics-competition/
 
 - visual recognition using Python and/or C++ to recognize the bottles and guide the robot to them: https://apiquet.com/2019/06/02/visual-recognition/
 
